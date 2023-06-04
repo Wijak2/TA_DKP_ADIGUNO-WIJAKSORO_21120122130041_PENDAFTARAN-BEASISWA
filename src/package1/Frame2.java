@@ -152,7 +152,7 @@ public class Frame2 extends javax.swing.JFrame {
              JOptionPane.showMessageDialog(rootPane,"Success\nData Tersimpan");
         }
         else {
-            JOptionPane.showMessageDialog(rootPane,"invalid");
+            JOptionPane.showMessageDialog(rootPane,"Kode salah");
         }
     }//GEN-LAST:event_bt_Next2ActionPerformed
 
